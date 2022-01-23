@@ -1,5 +1,9 @@
-# coreweb
+# CoreWeb
 An extreamly configurable Minecraft Server Landing Page
+
+# MC-Market
+
+Get a better preview here - https://www.mc-market.org/resources/20438/
 
 # Requirements
 This website requires PHP 7.4 or higher.
