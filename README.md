@@ -16,6 +16,9 @@ This website requires PHP 7.4 or higher.
 
 5. Visit your hosted website and our done :)
 
+# Discord
+
+My Discord Server - https://discord.gg/4RPdmqB9Gp
 
 # Updates
 This website/web-application is provided "as is", which means no updates or new features are guaranteed. We will do our best to keep updating and pushing new updates, and you are more than welcome to contribute your time as well and make pull requests for improvements.
