@@ -18,7 +18,7 @@ This website requires PHP 7.4 or higher.
 
 4. Edit config.php to your liking
 
-5. Visit your hosted website and our done :)
+5. Visit your hosted website and you're done :)
 
 # Discord
 
